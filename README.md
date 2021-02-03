@@ -7,21 +7,21 @@ You can see screenshots of both below to decide which one you want to use.
 
 ![Screenshot of Windows Terminal with Verdant Views theme and without terminal background image][screenshot-profile-background-acrylic-full-window]
 
-[screenshot-profile-background-acrylic-full-window]: https://raw.githubusercontent.com/MalteRei/windows-terminal-Verdant-Views/master/screenshots/profile-background-acrylic/screenshot-profile-background-acrylic-full-window.png "Verdant Views theme for Windows Terminal"
+[screenshot-profile-background-acrylic-full-window]: https://raw.githubusercontent.com/MalteRei/windows-terminal-verdant-views/main/screenshots/profile-background-acrylic/screenshot-profile-background-acrylic-full-window.png "Verdant Views theme for Windows Terminal"
 
 ![Screenshot of a Windows Desktop on which Windows Terminal, with Verdant Views theme and without terminal background image, is open][screenshot-profile-background-acrylic-full-screen]
 
-[screenshot-profile-background-acrylic-full-screen]: https://raw.githubusercontent.com/MalteRei/windows-terminal-Verdant-Views/master/screenshots/profile-background-acrylic/screenshot-profile-background-acrylic-full-screen.png "Verdant Views theme for Windows Terminal"
+[screenshot-profile-background-acrylic-full-screen]: https://raw.githubusercontent.com/MalteRei/windows-terminal-verdant-views/main/screenshots/profile-background-acrylic/screenshot-profile-background-acrylic-full-screen.png "Verdant Views theme for Windows Terminal"
 
 
 
 ![Screenshot of Windows Terminal with Verdant Views theme and with terminal background image][screenshot-profile-background-image-full-window]
 
-[screenshot-profile-background-image-full-window]: https://raw.githubusercontent.com/MalteRei/windows-terminal-Verdant-Views/master/screenshots/profile-background-image/screenshot-profile-background-image-full-window.png "Verdant Views theme for Windows Terminal"
+[screenshot-profile-background-image-full-window]: https://raw.githubusercontent.com/MalteRei/windows-terminal-verdant-views/main/screenshots/profile-background-image/screenshot-profile-background-image-full-window.png "Verdant Views theme for Windows Terminal"
 
 ![Screenshot of a Windows Desktop on which Windows Terminal, with Verdant Views theme and with terminal background image, is open][screenshot-profile-background-image-full-screen]
 
-[screenshot-profile-background-image-full-screen]: https://raw.githubusercontent.com/MalteRei/windows-terminal-Verdant-Views/master/screenshots/profile-background-image/screenshot-profile-background-image-full-screen.png "Verdant Views theme for Windows Terminal"
+[screenshot-profile-background-image-full-screen]: https://raw.githubusercontent.com/MalteRei/windows-terminal-verdant-views/main/screenshots/profile-background-image/screenshot-profile-background-image-full-screen.png "Verdant Views theme for Windows Terminal"
 
 ## Installation
 
